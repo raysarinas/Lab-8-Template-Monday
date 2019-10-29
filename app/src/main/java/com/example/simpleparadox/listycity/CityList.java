@@ -78,7 +78,7 @@ public class CityList {
         return cities.size();
     }
 
-    public boolean checkEmpty() {
-        return true;
-    }
+//    public boolean checkEmpty() {
+//        return true;
+//    }
 }
